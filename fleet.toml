@@ -1,0 +1,5 @@
+rd_enabled = true
+fleet_id = "0d4a87d2-d2bb-4061-bf11-cc3f285a5ef5"
+
+[build]
+sccache = "/home/thehackercoding/.cargo/bin/sccache"
